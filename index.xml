@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anjali | Bla Bla</title>
+    <link>https://anjalipanwar.github.io/</link>
+    <description>Recent content on Anjali | Bla Bla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anjalipanwar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://anjalipanwar.github.io/blog/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anjalipanwar.github.io/blog/posts/about/</guid>
+      <description>Hello there !!
+I am Anjali, 24, born in Agra, the city of Taj (India).
+I am a Software Professional and like to connect with people of different background. I am always open for the exciting projects and challenges. I am graduated in Computer Science Engineering and currently working with a Tech-Startup in Bengaluru, India.
+Few things which I really enjoy doing/working with:
+ Technologies 
+Passionate about it coz it has beautifully evolved the life of every species on this Earth.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://anjalipanwar.github.io/blog/posts/work/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://anjalipanwar.github.io/blog/posts/work/</guid>
+      <description>47Line Technologies Inc.  Associate Software Engineer   Jan 2016 – Present , Bengaluru Area, India   Visit : cmpute.io   As part of 47line, worked on Cloud (SaaS) product where I am responsible to manage the testing platform which involves exploration and implementation on Cloud testing, API testing, UI/UX testing and creating various test scripts to automate the end to end testing process.
+ANR Software Pvt.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://anjalipanwar.github.io/blog/posts/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anjalipanwar.github.io/blog/posts/education/</guid>
+      <description> Sharda University G.Noida, India  B.Tech  Major: Computer Science and Engineering 2010-2014  Visit : Sharda University   St. Fidelis Senior Secondary School Aligarh, India  Undergrads  Major: Science 2008-2010 </description>
+    </item>
+    
+    <item>
+      <title>Projects &amp; Articles</title>
+      <link>https://anjalipanwar.github.io/blog/posts/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anjalipanwar.github.io/blog/posts/projects/</guid>
+      <description>Projects Cmpute.io  A SaaS solution which is built on top of AWS (Amazon Web Services), automates the Job scheduling process for various Use Cases by auto biding AWS instances and optimize the AWS Cost. I am responsible for end-to-end product testing by creating and executing all the manual and automated Test Cases. Also perform API Testing,UI/UX testing, analyze core functional performance while biding and running Jobs using AWS instances.</description>
+    </item>
+    
+  </channel>
+</rss>
